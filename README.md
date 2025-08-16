@@ -1,10 +1,7 @@
 # cognito
-A programming language for enhanced Machine Learning utilities
+A programming language for enhanced Machine Learning utilities. Will eventually include b-in support for mathematical proofs about program behavior, making it easier to verify that AI systems behave within specified bounds.
 
-Speculations of improved syntax for ML apps
-
-MOTIVATION: More accessible yet effective use of ML
-(neural networks use tensors)
+Motivations behind cognito include:
 
 - Simpler model architecture description syntax
 A simplified model architecture syntax would make defining neural networks more succinct and intuitive 
